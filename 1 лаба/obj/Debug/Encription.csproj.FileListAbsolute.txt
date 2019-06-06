@@ -1,0 +1,10 @@
+E:\C#\Тарнавський\1 лаба\1 лаба\bin\Debug\1 лаба.exe
+E:\C#\Тарнавський\1 лаба\1 лаба\bin\Debug\1 лаба.pdb
+E:\C#\Тарнавський\1 лаба\1 лаба\obj\Debug\Encription.csprojAssemblyReference.cache
+E:\C#\Тарнавський\1 лаба\1 лаба\obj\Debug\_1_лаба.BestSecurity.resources
+E:\C#\Тарнавський\1 лаба\1 лаба\obj\Debug\_1_лаба.KeysInspector.resources
+E:\C#\Тарнавський\1 лаба\1 лаба\obj\Debug\_1_лаба.Properties.Resources.resources
+E:\C#\Тарнавський\1 лаба\1 лаба\obj\Debug\Encription.csproj.GenerateResource.cache
+E:\C#\Тарнавський\1 лаба\1 лаба\obj\Debug\Encription.csproj.CoreCompileInputs.cache
+E:\C#\Тарнавський\1 лаба\1 лаба\obj\Debug\1 лаба.exe
+E:\C#\Тарнавський\1 лаба\1 лаба\obj\Debug\1 лаба.pdb
